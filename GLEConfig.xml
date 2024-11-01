@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2175" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Riches Of The Runes WLA" version="1.0.13" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="10,20,50,100,200,300,500,1000,2000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,en_US,en_NZ,pl_PL,nb_NO,lt_LT"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+
+            <!-- LNZ -->
+            <paymodel modelid="300-2175-001"  revealId="2175" revealVersionId="2175"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-001"
+                      hibethold="41.30" lobethold="41.30"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-001" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- PLT -->
+            <paymodel modelid="300-2175-002"  revealId="2175" revealVersionId="2175"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-002"
+                      hibethold="29.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-002" clienttype="HTML" configcode="PHLP"/> 
+
+            <!-- NT -->
+            <paymodel modelid="300-2175-003"  revealId="4417" revealVersionId="4417"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-003"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-003" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- GA -->
+            <paymodel modelid="300-2175-004"  revealId="4417" revealVersionId="4417"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-004"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-004" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-004" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- RI -->
+            <paymodel modelid="300-2175-005"  revealId="4417" revealVersionId="4411"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-005"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-005" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-005" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- KY -->
+            <paymodel modelid="300-2175-006"  revealId="4417" revealVersionId="4411"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-006"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-006" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-006" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LTR -->
+            <paymodel modelid="300-2175-007"  revealId="4417" revealVersionId="4411"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-007"
+                      hibethold="37.00" lobethold="37.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-007" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-007" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- ZER -->
+            <!-- <paymodel modelid="300-2175-099"  revealId="2175" revealVersionId="2175"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Riches Of The Runes WLA : 300-2175-099"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2175-099" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2175-099" clienttype="HTML" configcode="PHLP"/> -->
+
+            <denom currencycode="NOK" amount="0.01"/>
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="PLN" amount="0.01,0.05"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
